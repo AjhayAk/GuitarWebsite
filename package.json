@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-player": "^2.9.0",
+    "webrtc-adapter": "^7.7.1"
+  }
+}
